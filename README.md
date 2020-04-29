@@ -1,0 +1,1 @@
+Challenge proposed by Rocketseat's GoStack bootcamp. It consists of implementing an API so that it must store incoming and outgoing financial transactions, which should allow the registration and listing of these transactions.
